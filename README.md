@@ -1,2 +1,2 @@
 ### armlet of mordiggian
-<img align="left" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlnNGQzbjY1MHV3bnlpdzBmeGVmbHp1NHhodTBzZWdhMGJyNzE1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuP4uT4a4XdA5TENZa/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oI2_Ym_8lH9wp5LnwlHNf_TiqTdlwoCo9g&s)" width="300" />
+<img align="left" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Chaos_Knight%27s_Armlet_of_Mordiggian_with.gif/revision/latest?cb=20140829230609" width="300" />
